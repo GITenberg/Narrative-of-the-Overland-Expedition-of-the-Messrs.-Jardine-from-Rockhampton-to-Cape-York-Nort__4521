@@ -1,0 +1,37 @@
+_repo: Narrative-of-the-Overland-Expedition-of-the-Messrs.-Jardine-from-Rockhampton-to-Cape-York-Nort__4521
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Jardine, Alexander
+    gutenberg_agent_id: '40588'
+    url: http://www.gutenberg.org/2009/agents/40588
+  - agent_name: Jardine, Frank Lascelles
+    alias: Jardine, Francis Lascelles
+    birthdate: 1841
+    deathdate: 1919
+    gutenberg_agent_id: '1488'
+    url: http://www.gutenberg.org/2009/agents/1488
+  editor:
+    agent_name: Byerley, Frederick J.
+    gutenberg_agent_id: '1489'
+    url: http://www.gutenberg.org/2009/agents/1489
+description: ''
+gutenberg_bookshelf: Australia
+gutenberg_issued: '2004-08-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4521'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jardine, Frank Lascelles -- Travel -- Australia -- Queensland'
+- !lcsh 'Jardine, Alexander -- Travel -- Australia -- Queensland'
+- !lcc 'DU'
+- !lcsh 'Queensland -- Description and travel'
+- !lcsh 'Queensland -- Discovery and exploration'
+- GITenberg
+title: Narrative of the Overland Expedition of the Messrs. Jardine from Rockhampton
+  to Cape York, Northern Queensland
+url: http://www.gutenberg.org/ebooks/4521
